@@ -16,8 +16,7 @@ copy build/libs/{JAR_NAME} %UserProfile%/.openosrs/plugins
 ### Linux
 Assuming `.openosrs` is located in the home directory:
 ```
-mkdir ~/.openosrs/plugins
-cp build/libs/{JAR_NAME} ~/.openosrs/plugins
+make install
 ```
 
 Of course, `{JAR_NAME}` should be replaced with the compiled jar's file name found under `build/libs`.
