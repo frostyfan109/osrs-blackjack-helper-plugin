@@ -2,7 +2,7 @@
 OpenOSRS plugin that consecutively highlights knock-out option upon failure.
 
 ## Example
-![Example](https://i.imgur.com/tvbtE9I.gif)
+<img src="/example.gif?raw=true" width="400px">
 
 ## Installation
 This plugin is old and has not been ported to the newer design style introduced to OpenOSRS during the external plugins rework. It can be installed by copying the compiled jar found in `build/libs` to the `plugins` folder in the `.openosrs` directory.
