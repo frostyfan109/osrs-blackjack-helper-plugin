@@ -1,0 +1,7 @@
+Manifest-Version: 1.0
+Plugin-Version: 0.0.2
+Plugin-Id: thievinghelperofficialbuild-plugin
+Plugin-Provider: 
+Plugin-Description: Failed knockout indicator for best xp rates
+Plugin-License: 3-Clause BSD License
+
